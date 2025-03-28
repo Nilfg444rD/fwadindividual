@@ -17,10 +17,10 @@ cp .env.example .env
 php artisan key:generate
 
 
-#Запустить Laravel сервер
+# Запустить Laravel сервер
 php artisan serve
 
-#Запустить React фронтенд
+# Запустить React фронтенд
 
 cd recipe-book-client
 npm start
